@@ -122,7 +122,7 @@ proxy-groups:
       - 🇯🇵 JP AUTO
       - 🇺🇲 US AUTO
       - 🇨🇳 TW AUTO
-    name: 🌍 GLOBAL
+    name: GLOBAL
     type: select
 
 +rules:
