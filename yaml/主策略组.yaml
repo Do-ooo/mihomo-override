@@ -77,6 +77,7 @@ proxy-groups:
       - 🇺🇲 US AUTO
       - 🇨🇳 TW AUTO
       - 🇰🇷 小众节点
+      - DIRECT
   - icon: https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/Urltest.png
     include-all: true
     exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置|电报|Telegram|失联|官网
