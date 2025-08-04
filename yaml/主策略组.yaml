@@ -159,14 +159,14 @@ proxy-groups:
     name: US AUTO
     type: url-test
     interval: 300
-  - icon: https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/TW.png
+ # - icon: https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/TW.png
     include-all: true
     exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
     filter: (?i)台湾|TW
     name: TW AUTO
     type: url-test
     interval: 300
-  - icon: https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/DE.png
+ # - icon: https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/DE.png
     include-all: true
     exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
     filter: (?i)德国|卢森堡|俄罗斯|意大利|英国|芬兰|阿根廷|韩国
